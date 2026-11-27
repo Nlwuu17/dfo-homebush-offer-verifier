@@ -1,0 +1,128 @@
+[
+  {
+    "id": "E01",
+    "title": "The Big Shopping Week - DFO Homebush",
+    "publisher": "DFO Homebush",
+    "source_type": "商场活动页",
+    "url": "https://www.homebush.dfo.com.au/the-big-shopping-week",
+    "checked_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "passages": [
+      {
+        "locator": "THE BIG SHOPPING WEEK / 日期栏、YOUR OFFERS REVEALED!",
+        "summary_zh": "2026-11-20 至 2026-11-30 在 Homebush 举行，参加活动的门店提供优惠。"
+      },
+      {
+        "locator": "Exclusive The Big Shopping Week Offers / Oroton；VIEW YOUR EXCLUSIVE OFFERS HERE",
+        "summary_zh": "活动页列出 Oroton 的活动名称和 11 月 20–30 日档期，并提供整场活动优惠传单的入口。"
+      }
+    ]
+  },
+  {
+    "id": "E02",
+    "title": "The Big Shopping Week Oroton 2026 - DFO Homebush",
+    "publisher": "DFO Homebush",
+    "source_type": "商场品牌优惠页",
+    "url": "https://www.homebush.dfo.com.au/offers/the-big-shopping-week-oroton-2026",
+    "checked_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "passages": [
+      {
+        "locator": "Offer 日期栏、正文首段及 Terms and Conditions",
+        "summary_zh": "2026-11-20 至 2026-11-30，全店按原价减 50%，有除外项目；已降价商品按折后价再减 10%，结账时应用。条款限定 Oroton Outlet。",
+        "quote": "Offer available at Oroton Outlet only."
+      }
+    ]
+  },
+  {
+    "id": "E03",
+    "title": "2026 Black Friday and Cyber Monday Deals on Sports Gear | ASICS Australia",
+    "publisher": "ASICS Australia",
+    "source_type": "品牌活动条款",
+    "url": "https://www.asics.com/au/en-au/asics-black-friday-cyber-monday/c/au80154000/",
+    "checked_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "passages": [
+      {
+        "locator": "When does the 2026 OneASICS Black Friday Sale start and end?",
+        "summary_zh": "2026-11-19 至 2026-11-30，售完即止。"
+      },
+      {
+        "locator": "How does the discount work?",
+        "summary_zh": "OneASICS 会员登录后，指定款式减 30%，适用渠道为线上与参加活动的品牌店；排除 Factory Outlets。",
+        "quote": "excluding ASICS Factory Outlets"
+      }
+    ]
+  },
+  {
+    "id": "E04",
+    "title": "ASICS Australia Specialty Running Stores",
+    "publisher": "ASICS Australia",
+    "source_type": "品牌门店目录",
+    "url": "https://www.asics.com/au/en-au/mk/running-experts-collection-store-listing",
+    "checked_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "passages": [
+      {
+        "locator": "Get expert fitting at our ASICS Outlet stores / ASICS Outlet Stores / Homebush",
+        "summary_zh": "Homebush 位于 Outlet 门店分组，地址为 Shop 2-022, 3-5 Underwood Rd, Homebush NSW 2140。",
+        "quote": "ASICS Homebush Outlet"
+      }
+    ]
+  },
+  {
+    "id": "E05",
+    "title": "Ralph Lauren Black Friday & Cyber Weekend Sale | Ralph Lauren® AU",
+    "publisher": "Ralph Lauren Australia",
+    "source_type": "品牌活动条款",
+    "url": "https://www.ralphlauren.com.au/black-friday",
+    "checked_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "passages": [
+      {
+        "locator": "The Black Friday Event / See Details，第 1–4 条",
+        "summary_zh": "自 2026-11-26 起限时，指定商品按完整零售价减 30%，售完即止。页面列明品牌澳洲网站及参加活动的澳洲品牌店，另列六家除外的 David Jones 女装专柜；未给出明确结束日或参与门店全表。",
+        "quote": "participating Ralph Lauren stores in Australia"
+      }
+    ]
+  },
+  {
+    "id": "E06",
+    "title": "POLO RALPH LAUREN FACTORY STORE HOMEBUSH DFO | Ralph Lauren® AU",
+    "publisher": "Ralph Lauren Australia",
+    "source_type": "品牌门店目录",
+    "url": "https://www.ralphlauren.com.au/locations/AU/Homebush/71007",
+    "checked_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "passages": [
+      {
+        "locator": "门店页主标题及 Store Hours 上方地址",
+        "summary_zh": "品牌将 Homebush DFO 门店列为 Factory Store；地址为 Shop T51–T52, 3-5 Underwood Road, Homebush NSW 2140。"
+      }
+    ]
+  },
+  {
+    "id": "E07",
+    "title": "DFO Homebush The Big Shopping Week 2026 活动传单（活动页链接 VIEW YOUR EXCLUSIVE OFFERS HERE）",
+    "publisher": "DFO Homebush",
+    "source_type": "商场活动传单",
+    "url": "https://a.storyblok.com/f/62361/x/6c883149fe/dfoh_the-big-shopping-week_flyer-2026.pdf",
+    "checked_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "passages": [
+      {
+        "locator": "PDF 第 1 页 / ASICS",
+        "summary_zh": "11 月 13–30 日，指定款式按建议零售价减 50%，附星号条件。"
+      },
+      {
+        "locator": "PDF 第 2 页 / Oroton",
+        "summary_zh": "11 月 20–30 日，全店减 50%，附星号条件；额外 10% 一项标明为会员优惠。"
+      },
+      {
+        "locator": "PDF 第 2 页 / Polo Ralph Lauren",
+        "summary_zh": "11 月 20–30 日，最高减 70%，附星号条件。",
+        "quote": "Up to 70% off*"
+      }
+    ]
+  }
+]

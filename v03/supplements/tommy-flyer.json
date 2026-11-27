@@ -1,0 +1,13 @@
+{
+  "key":"tommy-bf-2026","brand":"Tommy Hilfiger",
+  "aliases":[],
+  "sources":[{
+    "id":"TH-FLYER","title":"DFO Homebush The Big Shopping Week 2026 · Tommy Hilfiger",
+    "url":"https://a.storyblok.com/f/62361/x/6c883149fe/dfoh_the-big-shopping-week_flyer-2026.pdf",
+    "checked_date":"2026-11-26","locator":"PDF 第 3 页 / Tommy Hilfiger 条目",
+    "terms":"传单写全店按建议零售价减 50%，附星号条件。传单的价格基准和截止日与品牌优惠详情页分别记录。",
+    "quote":"50% off RRP storewide*",
+    "scope":"context","scope_text":"Homebush 活动传单；此条仅供对照，价格基准写作 RRP。",
+    "start":"2026-11-18","end":"2026-11-30"
+  }]
+}

@@ -1,0 +1,202 @@
+{
+  "h1": {
+    "id": "h1",
+    "title": "The Big Shopping Week · 商场活动简介",
+    "type": "centre_event",
+    "paragraphs": {
+      "活动页 / 日期": "Friday 20th – Monday 30th November 2026",
+      "活动页 / 正文第1段节选": "The Big Shopping Week is at DFO Homebush"
+    },
+    "url": "https://www.homebush.dfo.com.au/the-big-shopping-week",
+    "checked": "2026-11-26",
+    "synthetic": false
+  },
+  "h2": {
+    "id": "h2",
+    "title": "Calvin Klein · Black Friday",
+    "type": "homebush_offer",
+    "paragraphs": {
+      "优惠标题 / 品牌": "Calvin Klein",
+      "Offer / 标题下日期": "18th November 2026 - 1st December 2026",
+      "正文第1段": "50% off full price styles"
+    },
+    "url": "https://www.homebush.dfo.com.au/offers/calvin-klein-black-friday-november-2026-calvin-klein",
+    "checked": "2026-11-26",
+    "synthetic": false
+  },
+  "h3": {
+    "id": "h3",
+    "title": "Tommy Hilfiger · Black Friday",
+    "type": "homebush_offer",
+    "paragraphs": {
+      "优惠标题 / 品牌": "Tommy Hilfiger",
+      "Offer / 标题下日期": "18th November 2026 - 1st December 2026",
+      "正文第1段": "50% off original prices storewide"
+    },
+    "url": "https://www.homebush.dfo.com.au/offers/tommy-hilfiger-black-friday-november-2026-tommy-hilfiger",
+    "checked": "2026-11-26",
+    "synthetic": false
+  },
+  "h4": {
+    "id": "h4",
+    "title": "Coach · Up To 50% Off Select Styles",
+    "type": "homebush_offer",
+    "paragraphs": {
+      "优惠标题 / 品牌": "Coach",
+      "Offer / 标题下日期": "25th November 2026 - 30th November 2026",
+      "优惠标题": "Up To 50% Off Select Styles"
+    },
+    "url": "https://www.homebush.dfo.com.au/offers/coach-up-to-50-off-select-styles-november-2026-coach",
+    "checked": "2026-11-26",
+    "synthetic": false
+  },
+  "d1": {
+    "id": "d1",
+    "title": "Black Friday 优惠公告",
+    "type": "brand_offer",
+    "paragraphs": {
+      "标题": "示例品牌",
+      "优惠": "Up to 50% off select styles",
+      "日期": "2026-11-20 to 2026-11-30",
+      "范围": "Outlet Stores Only"
+    },
+    "url": null,
+    "checked": null,
+    "synthetic": true
+  },
+  "d2": {
+    "id": "d2",
+    "title": "Homebush 品牌门店目录",
+    "type": "directory",
+    "paragraphs": {
+      "目录": "示例品牌 — DFO Homebush"
+    },
+    "url": null,
+    "checked": null,
+    "synthetic": true
+  },
+  "d3": {
+    "id": "d3",
+    "title": "Essendon Black Friday 门店优惠",
+    "type": "other_centre",
+    "paragraphs": {
+      "标题": "示例品牌",
+      "优惠": "Up to 50% off select styles",
+      "日期": "2026-11-20 to 2026-11-30",
+      "范围": "DFO Essendon"
+    },
+    "url": null,
+    "checked": null,
+    "synthetic": true
+  },
+  "d4": {
+    "id": "d4",
+    "title": "往期 Black Friday 条款",
+    "type": "brand_terms",
+    "paragraphs": {
+      "标题": "示例品牌",
+      "优惠": "Up to 50% off select styles",
+      "日期": "2025-11-20 to 2025-11-30",
+      "范围": "Participating stores: DFO Homebush"
+    },
+    "url": null,
+    "checked": null,
+    "synthetic": true
+  },
+  "d5": {
+    "id": "d5",
+    "title": "Black Friday 参与门店与例外",
+    "type": "brand_terms",
+    "paragraphs": {
+      "标题": "示例品牌",
+      "优惠": "Up to 50% off select styles",
+      "日期": "2026-11-20 to 2026-11-30",
+      "范围": "Participating stores: DFO Homebush",
+      "例外": "Excluded store: DFO Homebush"
+    },
+    "url": null,
+    "checked": null,
+    "synthetic": true
+  },
+  "d6": {
+    "id": "d6",
+    "title": "Black Friday 门店例外条款",
+    "type": "brand_terms",
+    "paragraphs": {
+      "标题": "示例品牌",
+      "优惠": "Up to 50% off select styles",
+      "日期": "2026-11-20 to 2026-11-30",
+      "范围": "Excluded store: DFO Homebush"
+    },
+    "url": null,
+    "checked": null,
+    "synthetic": true
+  },
+  "d7": {
+    "id": "d7",
+    "title": "Black Friday 参与门店名单",
+    "type": "brand_terms",
+    "paragraphs": {
+      "标题": "示例品牌",
+      "优惠": "Up to 50% off select styles",
+      "日期": "2026-11-20 to 2026-11-30",
+      "范围": "Participating stores: DFO Homebush"
+    },
+    "url": null,
+    "checked": null,
+    "synthetic": true
+  },
+  "d8": {
+    "id": "d8",
+    "title": "Black Friday 兑换条款",
+    "type": "brand_terms",
+    "paragraphs": {
+      "标题": "示例品牌",
+      "优惠": "Up to 50% off select styles",
+      "日期": "2026-11-20 to 2026-11-30",
+      "范围": "Outlet Stores Only"
+    },
+    "url": null,
+    "checked": null,
+    "synthetic": true
+  },
+  "d9": {
+    "id": "d9",
+    "title": "Black Friday 付款条款",
+    "type": "brand_terms",
+    "paragraphs": {
+      "标题": "示例品牌",
+      "优惠": "Up to 50% off select styles",
+      "日期": "2026-11-20 to 2026-11-30",
+      "范围": "Outlet Stores Only"
+    },
+    "url": null,
+    "checked": null,
+    "synthetic": true
+  },
+  "d10": {
+    "id": "d10",
+    "title": "Black Friday 商品条款",
+    "type": "brand_terms",
+    "paragraphs": {
+      "标题": "示例品牌",
+      "优惠": "Up to 50% off select styles",
+      "日期": "2026-11-20 to 2026-11-30",
+      "范围": "Outlet Stores Only"
+    },
+    "url": null,
+    "checked": null,
+    "synthetic": true
+  },
+  "d11": {
+    "id": "d11",
+    "title": "Black Friday 社交平台转述",
+    "type": "social",
+    "paragraphs": {
+      "帖子": "示例品牌 — DFO Homebush: Up to 50% off select styles"
+    },
+    "url": null,
+    "checked": null,
+    "synthetic": true
+  }
+}

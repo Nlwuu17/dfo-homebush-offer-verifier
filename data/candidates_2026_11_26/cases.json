@@ -1,0 +1,487 @@
+[
+  {
+    "case_id": "NC01",
+    "brand": "Rag & Bone",
+    "offer": "全店 25% off",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Rag & Bone 的「全店 25% off」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N03",
+        "title": "Rag & Bone | Take A Further 20% Off Storewide - DFO Homebush",
+        "source_type": "商场品牌优惠页"
+      },
+      {
+        "id": "N01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC02",
+    "brand": "Rag & Bone",
+    "offer": "全店再减 20%，含特价品和 rb MIRAMAR 系列",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Rag & Bone 的「全店再减 20%，含特价品和 rb MIRAMAR 系列」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N03",
+        "title": "Rag & Bone | Take A Further 20% Off Storewide - DFO Homebush",
+        "source_type": "商场品牌优惠页"
+      },
+      {
+        "id": "N01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC03",
+    "brand": "Sharetea",
+    "offer": "Black Friday 买一送一（Sharetea App 会员）",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Sharetea 的「Black Friday 买一送一（Sharetea App 会员）」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N04",
+        "title": "Sharetea | Black Friday: Buy One, Get One Free - DFO Homebush",
+        "source_type": "商场品牌优惠页"
+      },
+      {
+        "id": "N01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC04",
+    "brand": "Sharetea",
+    "offer": "任选 3 杯大杯果茶或奶茶 $20",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Sharetea 的「任选 3 杯大杯果茶或奶茶 $20」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N04",
+        "title": "Sharetea | Black Friday: Buy One, Get One Free - DFO Homebush",
+        "source_type": "商场品牌优惠页"
+      },
+      {
+        "id": "N01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC05",
+    "brand": "Bath & Body Works",
+    "offer": "全店买一送一",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Bath & Body Works 的「全店买一送一」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N05",
+        "title": "Bath & Body Works | Black Friday Is Here - DFO Homebush",
+        "source_type": "商场品牌优惠页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC06",
+    "brand": "Bath & Body Works",
+    "offer": "精选身体护理每件 $12",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Bath & Body Works 的「精选身体护理每件 $12」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N05",
+        "title": "Bath & Body Works | Black Friday Is Here - DFO Homebush",
+        "source_type": "商场品牌优惠页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC07",
+    "brand": "Shiels Jewellers",
+    "offer": "全部首饰额外 10% off",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Shiels Jewellers 的「全部首饰额外 10% off」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N06",
+        "title": "Shiels Jewellers | Extra 10% Off Jewellery This Black Friday - DFO Homebush",
+        "source_type": "商场品牌优惠页"
+      },
+      {
+        "id": "N01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC08",
+    "brand": "Shiels Jewellers",
+    "offer": "全部首饰最高 50% off，不限金额",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Shiels Jewellers 的「全部首饰最高 50% off，不限金额」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N06",
+        "title": "Shiels Jewellers | Extra 10% Off Jewellery This Black Friday - DFO Homebush",
+        "source_type": "商场品牌优惠页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC09",
+    "brand": "Coach",
+    "offer": "指定款最高 50% off",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Coach 的「指定款最高 50% off」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N07",
+        "title": "Coach | Up To 50% Off Select Styles - DFO Homebush",
+        "source_type": "商场品牌优惠页"
+      },
+      {
+        "id": "N01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC10",
+    "brand": "Coach",
+    "offer": "全店 50% off",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Coach 的「全店 50% off」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N07",
+        "title": "Coach | Up To 50% Off Select Styles - DFO Homebush",
+        "source_type": "商场品牌优惠页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC11",
+    "brand": "Guess",
+    "offer": "全店 30% off，含特价品",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Guess 的「全店 30% off，含特价品」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N08",
+        "title": "Guess | 30% Off Storewide Including Sale - DFO Homebush",
+        "source_type": "商场品牌优惠页"
+      },
+      {
+        "id": "N01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC12",
+    "brand": "Portmans",
+    "offer": "全店最高 70% off（按原吊牌价）",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Portmans 的「全店最高 70% off（按原吊牌价）」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N09",
+        "title": "Portmans | Up To 70% Off Storewide - DFO Homebush",
+        "source_type": "商场品牌优惠页"
+      },
+      {
+        "id": "N12",
+        "title": "Portmans - DFO Homebush",
+        "source_type": "商场门店页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC13",
+    "brand": "Chatime",
+    "offer": "大杯芒果红茶 $6",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Chatime 的「大杯芒果红茶 $6」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N10",
+        "title": "Chatime | $6 Mango Black Tea - DFO Homebush",
+        "source_type": "商场品牌优惠页"
+      },
+      {
+        "id": "N11",
+        "title": "Chatime - DFO Homebush",
+        "source_type": "商场门店页"
+      },
+      {
+        "id": "N01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      }
+    ]
+  },
+  {
+    "case_id": "NC14",
+    "brand": "Lindt",
+    "offer": "全店 30% off（除饮品和 crema gelata）",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Lindt 的「全店 30% off（除饮品和 crema gelata）」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC15",
+    "brand": "Adairs",
+    "offer": "全店 25% off",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Adairs 的「全店 25% off」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC16",
+    "brand": "Armani Outlet",
+    "offer": "全店 60% off",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Armani Outlet 的「全店 60% off」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC17",
+    "brand": "Gravity Zone",
+    "offer": "全店最高 70% off",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Gravity Zone 的「全店最高 70% off」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC18",
+    "brand": "Industrie",
+    "offer": "指定款最高 50% off",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Industrie 的「指定款最高 50% off」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC19",
+    "brand": "Nike",
+    "offer": "装备 30% off",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Nike 的「装备 30% off」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "NC20",
+    "brand": "Swarovski",
+    "offer": "买 2 件 Outlet 商品额外 20% off",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Swarovski 的「买 2 件 Outlet 商品额外 20% off」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "N01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "N02",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单",
+        "source_type": "商场活动传单"
+      }
+    ]
+  }
+]

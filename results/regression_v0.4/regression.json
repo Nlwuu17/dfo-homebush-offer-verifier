@@ -1,0 +1,1528 @@
+{
+  "meta": {
+    "baseline_commit": "e215b10bc09d5ab6341c3bfc05b4bd81e4059cba",
+    "current_commit": "40a9fe9ea6ba9a1e56d8de4d3864a8b2df1b5739",
+    "current_dirty": false
+  },
+  "cases": [
+    {
+      "case_id": "BF26-01",
+      "brand": "Oroton",
+      "offer": "Outlet 全店按原价减 50%（有除外项目）；会员购买已降价商品按折后价再减 10%",
+      "split": "BF26",
+      "gold": "适用",
+      "A": {
+        "old": "适用",
+        "new": "适用",
+        "old_path": [
+          "E02",
+          "E07"
+        ],
+        "new_path": [
+          "E02",
+          "E07"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "E02",
+          "E07"
+        ],
+        "class": "对→对"
+      },
+      "B": {
+        "old": "适用",
+        "new": "适用",
+        "old_path": [
+          "E02",
+          "E07"
+        ],
+        "new_path": [
+          "E02",
+          "E07"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "E02",
+          "E07"
+        ],
+        "class": "对→对"
+      },
+      "C": {
+        "old": "适用",
+        "new": "适用",
+        "path": [
+          "E02",
+          "E07"
+        ],
+        "runs": 5,
+        "policy": "first_verdict",
+        "commit": "5063b11",
+        "first_verdict_step": 2,
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "E02",
+          "E07"
+        ],
+        "class": "对→对"
+      },
+      "triggers": {}
+    },
+    {
+      "case_id": "BF26-02",
+      "brand": "ASICS",
+      "offer": "OneASICS 会员指定款式减 30%",
+      "split": "BF26",
+      "gold": "不适用",
+      "A": {
+        "old": "不适用",
+        "new": "不适用",
+        "old_path": [
+          "E03",
+          "E07",
+          "E04"
+        ],
+        "new_path": [
+          "E03",
+          "E07",
+          "E04"
+        ],
+        "new_reason": "对应优惠的品牌条款排除 Outlet，门店目录确认 Homebush 属于该类别。",
+        "new_citations": [
+          "E03",
+          "E04"
+        ],
+        "class": "对→对"
+      },
+      "B": {
+        "old": "不适用",
+        "new": "不适用",
+        "old_path": [
+          "E03",
+          "E04",
+          "E07"
+        ],
+        "new_path": [
+          "E03",
+          "E04",
+          "E07"
+        ],
+        "new_reason": "对应优惠的品牌条款排除 Outlet，门店目录确认 Homebush 属于该类别。",
+        "new_citations": [
+          "E03",
+          "E04"
+        ],
+        "class": "对→对"
+      },
+      "C": {
+        "old": "不适用",
+        "new": "不适用",
+        "path": [
+          "E03",
+          "E04"
+        ],
+        "runs": 5,
+        "policy": "first_verdict",
+        "commit": "5063b11",
+        "first_verdict_step": 2,
+        "new_reason": "对应优惠的品牌条款排除 Outlet，门店目录确认 Homebush 属于该类别。",
+        "new_citations": [
+          "E03",
+          "E04"
+        ],
+        "class": "对→对"
+      },
+      "triggers": {}
+    },
+    {
+      "case_id": "BF26-03",
+      "brand": "Ralph Lauren",
+      "offer": "Black Friday 指定商品按完整零售价减 30%",
+      "split": "BF26",
+      "gold": "证据不足",
+      "A": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "old_path": [
+          "E05",
+          "E07",
+          "E06"
+        ],
+        "new_path": [
+          "E05",
+          "E07",
+          "E06"
+        ],
+        "new_reason": "品牌已公布对应优惠，参与门店范围尚未明确到 Homebush。商场传单列出的折扣不同。目录只确认门店身份。",
+        "new_citations": [
+          "E05",
+          "E07",
+          "E06"
+        ],
+        "class": "对→对"
+      },
+      "B": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "old_path": [
+          "E05",
+          "E07",
+          "E06"
+        ],
+        "new_path": [
+          "E05",
+          "E07",
+          "E06"
+        ],
+        "new_reason": "品牌已公布对应优惠，参与门店范围尚未明确到 Homebush。商场传单列出的折扣不同。目录只确认门店身份。",
+        "new_citations": [
+          "E05",
+          "E07",
+          "E06"
+        ],
+        "class": "对→对"
+      },
+      "C": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "path": [
+          "E05",
+          "E06",
+          "E07"
+        ],
+        "runs": 5,
+        "policy": "first_verdict",
+        "commit": "5063b11",
+        "first_verdict_step": null,
+        "new_reason": "品牌已公布对应优惠，参与门店范围尚未明确到 Homebush。商场传单列出的折扣不同。目录只确认门店身份。",
+        "new_citations": [
+          "E05",
+          "E07",
+          "E06"
+        ],
+        "class": "对→对"
+      },
+      "triggers": {}
+    },
+    {
+      "case_id": "NC01",
+      "brand": "Rag & Bone",
+      "offer": "全店 25% off",
+      "split": "开发",
+      "gold": "证据不足",
+      "A": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "old_path": [
+          "N03",
+          "N02",
+          "N01"
+        ],
+        "new_path": [
+          "N03",
+          "N02",
+          "N01"
+        ],
+        "new_reason": "已读资料尚未建立目标门店与指定优惠之间的关系。",
+        "new_citations": [
+          "N03",
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "B": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "old_path": [
+          "N03",
+          "N02",
+          "N01"
+        ],
+        "new_path": [
+          "N03",
+          "N02",
+          "N01"
+        ],
+        "new_reason": "已读资料尚未建立目标门店与指定优惠之间的关系。",
+        "new_citations": [
+          "N03",
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "C": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "path": [
+          "N03",
+          "N02",
+          "N01"
+        ],
+        "runs": 5,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": null,
+        "new_reason": "已读资料尚未建立目标门店与指定优惠之间的关系。",
+        "new_citations": [
+          "N03",
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "triggers": {}
+    },
+    {
+      "case_id": "NC02",
+      "brand": "Rag & Bone",
+      "offer": "全店再减 20%，含特价品和 rb MIRAMAR 系列",
+      "split": "开发",
+      "gold": "适用",
+      "A": {
+        "old": "适用",
+        "new": "适用",
+        "old_path": [
+          "N03",
+          "N02"
+        ],
+        "new_path": [
+          "N03",
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N03"
+        ],
+        "class": "对→对"
+      },
+      "B": {
+        "old": "适用",
+        "new": "适用",
+        "old_path": [
+          "N03",
+          "N02"
+        ],
+        "new_path": [
+          "N03",
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N03"
+        ],
+        "class": "对→对"
+      },
+      "C": {
+        "old": "适用",
+        "new": "适用",
+        "path": [
+          "N03",
+          "N02"
+        ],
+        "runs": 5,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": 1,
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N03"
+        ],
+        "class": "对→对"
+      },
+      "triggers": {}
+    },
+    {
+      "case_id": "NC03",
+      "brand": "Sharetea",
+      "offer": "Black Friday 买一送一（Sharetea App 会员）",
+      "split": "留出",
+      "gold": "不适用",
+      "A": {
+        "old": "证据不足",
+        "new": "不适用",
+        "old_path": [
+          "N04",
+          "N02",
+          "N01"
+        ],
+        "new_path": [
+          "N04",
+          "N02"
+        ],
+        "new_reason": "已读资料写明的同一优惠档期均不包含核对日。",
+        "new_citations": [
+          "N04"
+        ],
+        "class": "错→对"
+      },
+      "B": {
+        "old": "证据不足",
+        "new": "不适用",
+        "old_path": [
+          "N04",
+          "N02",
+          "N01"
+        ],
+        "new_path": [
+          "N04",
+          "N02"
+        ],
+        "new_reason": "已读资料写明的同一优惠档期均不包含核对日。",
+        "new_citations": [
+          "N04"
+        ],
+        "class": "错→对"
+      },
+      "C": {
+        "old": "证据不足",
+        "new": "不适用",
+        "path": [
+          "N04",
+          "N01",
+          "N02"
+        ],
+        "runs": 1,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": 1,
+        "new_reason": "已读资料写明的同一优惠档期均不包含核对日。",
+        "new_citations": [
+          "N04"
+        ],
+        "class": "错→对"
+      },
+      "triggers": {
+        "A": {
+          "rule": "规则 A",
+          "clauses": [
+            "N04：买一送一（全店；须会员）"
+          ]
+        },
+        "B": {
+          "rule": "规则 A",
+          "clauses": [
+            "N04：买一送一（全店；须会员）"
+          ]
+        },
+        "C": {
+          "rule": "规则 A",
+          "clauses": [
+            "N04：买一送一（全店；须会员）"
+          ]
+        }
+      }
+    },
+    {
+      "case_id": "NC04",
+      "brand": "Sharetea",
+      "offer": "任选 3 杯大杯果茶或奶茶 $20",
+      "split": "开发",
+      "gold": "适用",
+      "A": {
+        "old": "证据不足",
+        "new": "适用",
+        "old_path": [
+          "N04",
+          "N02",
+          "N01"
+        ],
+        "new_path": [
+          "N04",
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N02"
+        ],
+        "class": "错→对"
+      },
+      "B": {
+        "old": "证据不足",
+        "new": "适用",
+        "old_path": [
+          "N04",
+          "N02",
+          "N01"
+        ],
+        "new_path": [
+          "N04",
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N02"
+        ],
+        "class": "错→对"
+      },
+      "C": {
+        "old": "证据不足",
+        "new": "适用",
+        "path": [
+          "N04",
+          "N02",
+          "N01"
+        ],
+        "runs": 5,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": 2,
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N02"
+        ],
+        "class": "错→对"
+      },
+      "triggers": {
+        "A": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N02：3杯共$20（奶茶、果茶）"
+          ]
+        },
+        "B": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N02：3杯共$20（奶茶、果茶）"
+          ]
+        },
+        "C": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N02：3杯共$20（奶茶、果茶）"
+          ]
+        }
+      }
+    },
+    {
+      "case_id": "NC05",
+      "brand": "Bath & Body Works",
+      "offer": "全店买一送一",
+      "split": "留出",
+      "gold": "适用",
+      "A": {
+        "old": "证据不足",
+        "new": "适用",
+        "old_path": [
+          "N05",
+          "N02"
+        ],
+        "new_path": [
+          "N05",
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N05",
+          "N02"
+        ],
+        "class": "错→对"
+      },
+      "B": {
+        "old": "证据不足",
+        "new": "适用",
+        "old_path": [
+          "N05",
+          "N02"
+        ],
+        "new_path": [
+          "N05",
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N05",
+          "N02"
+        ],
+        "class": "错→对"
+      },
+      "C": {
+        "old": "证据不足",
+        "new": "适用",
+        "path": [
+          "N05",
+          "N02"
+        ],
+        "runs": 1,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": 1,
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N05",
+          "N02"
+        ],
+        "class": "错→对"
+      },
+      "triggers": {
+        "A": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N05：买一送一（全店）",
+            "N02：买一送一（全店）"
+          ]
+        },
+        "B": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N05：买一送一（全店）",
+            "N02：买一送一（全店）"
+          ]
+        },
+        "C": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N05：买一送一（全店）",
+            "N02：买一送一（全店）"
+          ]
+        }
+      }
+    },
+    {
+      "case_id": "NC06",
+      "brand": "Bath & Body Works",
+      "offer": "精选身体护理每件 $12",
+      "split": "开发",
+      "gold": "适用",
+      "A": {
+        "old": "证据不足",
+        "new": "适用",
+        "old_path": [
+          "N05",
+          "N02"
+        ],
+        "new_path": [
+          "N05",
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N05",
+          "N02"
+        ],
+        "class": "错→对"
+      },
+      "B": {
+        "old": "证据不足",
+        "new": "适用",
+        "old_path": [
+          "N05",
+          "N02"
+        ],
+        "new_path": [
+          "N05",
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N05",
+          "N02"
+        ],
+        "class": "错→对"
+      },
+      "C": {
+        "old": "证据不足",
+        "new": "适用",
+        "path": [
+          "N05",
+          "N02"
+        ],
+        "runs": 5,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": 1,
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N05",
+          "N02"
+        ],
+        "class": "错→对"
+      },
+      "triggers": {
+        "A": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N05：单价$12（指定；身体护理）",
+            "N02：单价$12（指定；身体护理）"
+          ]
+        },
+        "B": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N05：单价$12（指定；身体护理）",
+            "N02：单价$12（指定；身体护理）"
+          ]
+        },
+        "C": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N05：单价$12（指定；身体护理）",
+            "N02：单价$12（指定；身体护理）"
+          ]
+        }
+      }
+    },
+    {
+      "case_id": "NC07",
+      "brand": "Shiels Jewellers",
+      "offer": "全部首饰额外 10% off",
+      "split": "开发",
+      "gold": "适用",
+      "A": {
+        "old": "证据不足",
+        "new": "适用",
+        "old_path": [
+          "N06",
+          "N02",
+          "N01"
+        ],
+        "new_path": [
+          "N06",
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N06"
+        ],
+        "class": "错→对"
+      },
+      "B": {
+        "old": "证据不足",
+        "new": "适用",
+        "old_path": [
+          "N06",
+          "N02",
+          "N01"
+        ],
+        "new_path": [
+          "N06",
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N06"
+        ],
+        "class": "错→对"
+      },
+      "C": {
+        "old": "证据不足",
+        "new": "适用",
+        "path": [
+          "N06",
+          "N02",
+          "N01"
+        ],
+        "runs": 5,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": 1,
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N06"
+        ],
+        "class": "错→对"
+      },
+      "triggers": {
+        "A": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N06：10%（首饰）"
+          ]
+        },
+        "B": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N06：10%（首饰）"
+          ]
+        },
+        "C": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N06：10%（首饰）"
+          ]
+        }
+      }
+    },
+    {
+      "case_id": "NC08",
+      "brand": "Shiels Jewellers",
+      "offer": "全部首饰最高 50% off，不限金额",
+      "split": "留出",
+      "gold": "证据不足",
+      "A": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "old_path": [
+          "N06",
+          "N02"
+        ],
+        "new_path": [
+          "N06",
+          "N02"
+        ],
+        "new_reason": "已读资料载有同一优惠，但范围更窄或附带用户描述未提及的条件。",
+        "new_citations": [
+          "N06"
+        ],
+        "class": "对→对"
+      },
+      "B": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "old_path": [
+          "N06",
+          "N02"
+        ],
+        "new_path": [
+          "N06",
+          "N02"
+        ],
+        "new_reason": "已读资料载有同一优惠，但范围更窄或附带用户描述未提及的条件。",
+        "new_citations": [
+          "N06"
+        ],
+        "class": "对→对"
+      },
+      "C": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "path": [
+          "N06",
+          "N02"
+        ],
+        "runs": 1,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": null,
+        "new_reason": "已读资料载有同一优惠，但范围更窄或附带用户描述未提及的条件。",
+        "new_citations": [
+          "N06"
+        ],
+        "class": "对→对"
+      },
+      "triggers": {}
+    },
+    {
+      "case_id": "NC09",
+      "brand": "Coach",
+      "offer": "指定款最高 50% off",
+      "split": "开发",
+      "gold": "适用",
+      "A": {
+        "old": "适用",
+        "new": "适用",
+        "old_path": [
+          "N07",
+          "N02"
+        ],
+        "new_path": [
+          "N07",
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N07",
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "B": {
+        "old": "适用",
+        "new": "适用",
+        "old_path": [
+          "N07",
+          "N02"
+        ],
+        "new_path": [
+          "N07",
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N07",
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "C": {
+        "old": "适用",
+        "new": "适用",
+        "path": [
+          "N07",
+          "N02"
+        ],
+        "runs": 5,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": 1,
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N07",
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "triggers": {}
+    },
+    {
+      "case_id": "NC10",
+      "brand": "Coach",
+      "offer": "全店 50% off",
+      "split": "留出",
+      "gold": "证据不足",
+      "A": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "old_path": [
+          "N07",
+          "N02"
+        ],
+        "new_path": [
+          "N07",
+          "N02"
+        ],
+        "new_reason": "已读资料尚未建立目标门店与指定优惠之间的关系。",
+        "new_citations": [
+          "N07",
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "B": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "old_path": [
+          "N07",
+          "N02"
+        ],
+        "new_path": [
+          "N07",
+          "N02"
+        ],
+        "new_reason": "已读资料尚未建立目标门店与指定优惠之间的关系。",
+        "new_citations": [
+          "N07",
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "C": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "path": [
+          "N07",
+          "N02"
+        ],
+        "runs": 1,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": null,
+        "new_reason": "已读资料尚未建立目标门店与指定优惠之间的关系。",
+        "new_citations": [
+          "N07",
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "triggers": {}
+    },
+    {
+      "case_id": "NC11",
+      "brand": "Guess",
+      "offer": "全店 30% off，含特价品",
+      "split": "开发",
+      "gold": "适用",
+      "A": {
+        "old": "适用",
+        "new": "适用",
+        "old_path": [
+          "N08",
+          "N02"
+        ],
+        "new_path": [
+          "N08",
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N08",
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "B": {
+        "old": "适用",
+        "new": "适用",
+        "old_path": [
+          "N08",
+          "N02"
+        ],
+        "new_path": [
+          "N08",
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N08",
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "C": {
+        "old": "适用",
+        "new": "适用",
+        "path": [
+          "N08",
+          "N02"
+        ],
+        "runs": 5,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": 1,
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N08",
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "triggers": {}
+    },
+    {
+      "case_id": "NC12",
+      "brand": "Portmans",
+      "offer": "全店最高 70% off（按原吊牌价）",
+      "split": "留出",
+      "gold": "适用",
+      "A": {
+        "old": "适用",
+        "new": "适用",
+        "old_path": [
+          "N09",
+          "N02"
+        ],
+        "new_path": [
+          "N09",
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N09",
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "B": {
+        "old": "适用",
+        "new": "适用",
+        "old_path": [
+          "N09",
+          "N02"
+        ],
+        "new_path": [
+          "N09",
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N09",
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "C": {
+        "old": "适用",
+        "new": "适用",
+        "path": [
+          "N09",
+          "N12",
+          "N02"
+        ],
+        "runs": 1,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": 3,
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N09",
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "triggers": {}
+    },
+    {
+      "case_id": "NC13",
+      "brand": "Chatime",
+      "offer": "大杯芒果红茶 $6",
+      "split": "开发",
+      "gold": "适用",
+      "A": {
+        "old": "证据不足",
+        "new": "适用",
+        "old_path": [
+          "N10",
+          "N11",
+          "N01"
+        ],
+        "new_path": [
+          "N10"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N10"
+        ],
+        "class": "错→对"
+      },
+      "B": {
+        "old": "证据不足",
+        "new": "适用",
+        "old_path": [
+          "N10",
+          "N11",
+          "N01"
+        ],
+        "new_path": [
+          "N10"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N10"
+        ],
+        "class": "错→对"
+      },
+      "C": {
+        "old": "证据不足",
+        "new": "适用",
+        "path": [
+          "N10",
+          "N11",
+          "N01"
+        ],
+        "runs": 5,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": 1,
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N10"
+        ],
+        "class": "错→对"
+      },
+      "triggers": {
+        "A": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N10：单价$6（芒果红茶）"
+          ]
+        },
+        "B": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N10：单价$6（芒果红茶）"
+          ]
+        },
+        "C": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N10：单价$6（芒果红茶）"
+          ]
+        }
+      }
+    },
+    {
+      "case_id": "NC14",
+      "brand": "Lindt",
+      "offer": "全店 30% off（除饮品和 crema gelata）",
+      "split": "开发",
+      "gold": "不适用",
+      "A": {
+        "old": "不适用",
+        "new": "不适用",
+        "old_path": [
+          "N02"
+        ],
+        "new_path": [
+          "N02"
+        ],
+        "new_reason": "已读资料写明的同一优惠档期均不包含核对日。",
+        "new_citations": [
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "B": {
+        "old": "不适用",
+        "new": "不适用",
+        "old_path": [
+          "N02"
+        ],
+        "new_path": [
+          "N02"
+        ],
+        "new_reason": "已读资料写明的同一优惠档期均不包含核对日。",
+        "new_citations": [
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "C": {
+        "old": "不适用",
+        "new": "不适用",
+        "path": [
+          "N02"
+        ],
+        "runs": 5,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": 1,
+        "new_reason": "已读资料写明的同一优惠档期均不包含核对日。",
+        "new_citations": [
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "triggers": {}
+    },
+    {
+      "case_id": "NC15",
+      "brand": "Adairs",
+      "offer": "全店 25% off",
+      "split": "开发",
+      "gold": "不适用",
+      "A": {
+        "old": "不适用",
+        "new": "不适用",
+        "old_path": [
+          "N02"
+        ],
+        "new_path": [
+          "N02"
+        ],
+        "new_reason": "已读资料写明的同一优惠档期均不包含核对日。",
+        "new_citations": [
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "B": {
+        "old": "不适用",
+        "new": "不适用",
+        "old_path": [
+          "N02"
+        ],
+        "new_path": [
+          "N02"
+        ],
+        "new_reason": "已读资料写明的同一优惠档期均不包含核对日。",
+        "new_citations": [
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "C": {
+        "old": "不适用",
+        "new": "不适用",
+        "path": [
+          "N02"
+        ],
+        "runs": 5,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": 1,
+        "new_reason": "已读资料写明的同一优惠档期均不包含核对日。",
+        "new_citations": [
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "triggers": {}
+    },
+    {
+      "case_id": "NC16",
+      "brand": "Armani Outlet",
+      "offer": "全店 60% off",
+      "split": "开发",
+      "gold": "不适用",
+      "A": {
+        "old": "不适用",
+        "new": "不适用",
+        "old_path": [
+          "N02"
+        ],
+        "new_path": [
+          "N02"
+        ],
+        "new_reason": "已读资料写明的同一优惠档期均不包含核对日。",
+        "new_citations": [
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "B": {
+        "old": "不适用",
+        "new": "不适用",
+        "old_path": [
+          "N02"
+        ],
+        "new_path": [
+          "N02"
+        ],
+        "new_reason": "已读资料写明的同一优惠档期均不包含核对日。",
+        "new_citations": [
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "C": {
+        "old": "不适用",
+        "new": "不适用",
+        "path": [
+          "N02"
+        ],
+        "runs": 5,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": 1,
+        "new_reason": "已读资料写明的同一优惠档期均不包含核对日。",
+        "new_citations": [
+          "N02"
+        ],
+        "class": "对→对"
+      },
+      "triggers": {}
+    },
+    {
+      "case_id": "NC17",
+      "brand": "Gravity Zone",
+      "offer": "全店最高 70% off",
+      "split": "开发",
+      "gold": "证据不足",
+      "A": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "old_path": [
+          "N02",
+          "N01"
+        ],
+        "new_path": [
+          "N02",
+          "N01"
+        ],
+        "new_reason": "已读资料尚未建立目标门店与指定优惠之间的关系。",
+        "new_citations": [],
+        "class": "对→对"
+      },
+      "B": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "old_path": [
+          "N02",
+          "N01"
+        ],
+        "new_path": [
+          "N02",
+          "N01"
+        ],
+        "new_reason": "已读资料尚未建立目标门店与指定优惠之间的关系。",
+        "new_citations": [],
+        "class": "对→对"
+      },
+      "C": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "path": [
+          "N02",
+          "N01"
+        ],
+        "runs": 5,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": null,
+        "new_reason": "已读资料尚未建立目标门店与指定优惠之间的关系。",
+        "new_citations": [],
+        "class": "对→对"
+      },
+      "triggers": {}
+    },
+    {
+      "case_id": "NC18",
+      "brand": "Industrie",
+      "offer": "指定款最高 50% off",
+      "split": "开发",
+      "gold": "证据不足",
+      "A": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "old_path": [
+          "N02",
+          "N01"
+        ],
+        "new_path": [
+          "N02",
+          "N01"
+        ],
+        "new_reason": "已读资料尚未建立目标门店与指定优惠之间的关系。",
+        "new_citations": [],
+        "class": "对→对"
+      },
+      "B": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "old_path": [
+          "N02",
+          "N01"
+        ],
+        "new_path": [
+          "N02",
+          "N01"
+        ],
+        "new_reason": "已读资料尚未建立目标门店与指定优惠之间的关系。",
+        "new_citations": [],
+        "class": "对→对"
+      },
+      "C": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "path": [
+          "N02",
+          "N01"
+        ],
+        "runs": 5,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": null,
+        "new_reason": "已读资料尚未建立目标门店与指定优惠之间的关系。",
+        "new_citations": [],
+        "class": "对→对"
+      },
+      "triggers": {}
+    },
+    {
+      "case_id": "NC19",
+      "brand": "Nike",
+      "offer": "装备 30% off",
+      "split": "开发",
+      "gold": "适用",
+      "A": {
+        "old": "证据不足",
+        "new": "适用",
+        "old_path": [
+          "N02",
+          "N01"
+        ],
+        "new_path": [
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N02"
+        ],
+        "class": "错→对"
+      },
+      "B": {
+        "old": "证据不足",
+        "new": "适用",
+        "old_path": [
+          "N02",
+          "N01"
+        ],
+        "new_path": [
+          "N02"
+        ],
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N02"
+        ],
+        "class": "错→对"
+      },
+      "C": {
+        "old": "证据不足",
+        "new": "适用",
+        "path": [
+          "N02",
+          "N01"
+        ],
+        "runs": 5,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": 1,
+        "new_reason": "商场在对应档期公布同一优惠，已读资料共同覆盖价格基准、适用范围及所列附加条件。",
+        "new_citations": [
+          "N02"
+        ],
+        "class": "错→对"
+      },
+      "triggers": {
+        "A": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N02：30%（装备）"
+          ]
+        },
+        "B": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N02：30%（装备）"
+          ]
+        },
+        "C": {
+          "rule": "同一优惠及条件均有出处",
+          "clauses": [
+            "N02：30%（装备）"
+          ]
+        }
+      }
+    },
+    {
+      "case_id": "NC20",
+      "brand": "Swarovski",
+      "offer": "买 2 件 Outlet 商品额外 20% off",
+      "split": "开发",
+      "gold": "适用",
+      "A": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "old_path": [
+          "N02",
+          "N01"
+        ],
+        "new_path": [
+          "N02",
+          "N01"
+        ],
+        "new_reason": "已读资料尚未建立目标门店与指定优惠之间的关系。",
+        "new_citations": [],
+        "class": "错→错"
+      },
+      "B": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "old_path": [
+          "N02",
+          "N01"
+        ],
+        "new_path": [
+          "N02",
+          "N01"
+        ],
+        "new_reason": "已读资料尚未建立目标门店与指定优惠之间的关系。",
+        "new_citations": [],
+        "class": "错→错"
+      },
+      "C": {
+        "old": "证据不足",
+        "new": "证据不足",
+        "path": [
+          "N02",
+          "N01"
+        ],
+        "runs": 5,
+        "policy": "confirm",
+        "commit": "e215b10",
+        "first_verdict_step": null,
+        "new_reason": "已读资料尚未建立目标门店与指定优惠之间的关系。",
+        "new_citations": [],
+        "class": "错→错"
+      },
+      "triggers": {}
+    }
+  ]
+}

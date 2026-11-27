@@ -1,0 +1,93 @@
+[
+  {
+    "case_id": "BF26-01",
+    "brand": "Oroton",
+    "offer": "Outlet 全店按原价减 50%（有除外项目）；会员购买已降价商品按折后价再减 10%",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Oroton 的「Outlet 全店按原价减 50%（有除外项目）；会员购买已降价商品按折后价再减 10%」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "E01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "E02",
+        "title": "The Big Shopping Week Oroton 2026 - DFO Homebush",
+        "source_type": "商场品牌优惠页"
+      },
+      {
+        "id": "E07",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单（活动页链接 VIEW YOUR EXCLUSIVE OFFERS HERE）",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "BF26-02",
+    "brand": "ASICS",
+    "offer": "OneASICS 会员指定款式减 30%",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，ASICS 的「OneASICS 会员指定款式减 30%」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "E01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "E03",
+        "title": "2026 Black Friday and Cyber Monday Deals on Sports Gear | ASICS Australia",
+        "source_type": "品牌活动条款"
+      },
+      {
+        "id": "E04",
+        "title": "ASICS Australia Specialty Running Stores",
+        "source_type": "品牌门店目录"
+      },
+      {
+        "id": "E07",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单（活动页链接 VIEW YOUR EXCLUSIVE OFFERS HERE）",
+        "source_type": "商场活动传单"
+      }
+    ]
+  },
+  {
+    "case_id": "BF26-03",
+    "brand": "Ralph Lauren",
+    "offer": "Black Friday 指定商品按完整零售价减 30%",
+    "event": "2026 Black Friday / The Big Shopping Week",
+    "as_of_date": "2026-11-26",
+    "timezone": "Australia/Sydney",
+    "centre": "DFO Homebush",
+    "question": "在核对日，Ralph Lauren 的「Black Friday 指定商品按完整零售价减 30%」能否在悉尼 DFO Homebush 的该品牌实体店使用？",
+    "catalogue": [
+      {
+        "id": "E01",
+        "title": "The Big Shopping Week - DFO Homebush",
+        "source_type": "商场活动页"
+      },
+      {
+        "id": "E05",
+        "title": "Ralph Lauren Black Friday & Cyber Weekend Sale | Ralph Lauren® AU",
+        "source_type": "品牌活动条款"
+      },
+      {
+        "id": "E06",
+        "title": "POLO RALPH LAUREN FACTORY STORE HOMEBUSH DFO | Ralph Lauren® AU",
+        "source_type": "品牌门店目录"
+      },
+      {
+        "id": "E07",
+        "title": "DFO Homebush The Big Shopping Week 2026 活动传单（活动页链接 VIEW YOUR EXCLUSIVE OFFERS HERE）",
+        "source_type": "商场活动传单"
+      }
+    ]
+  }
+]

@@ -1,0 +1,30 @@
+import {test,expect} from '@playwright/test';
+const official='https://www.homebush.dfo.com.au/offers/tommy-hilfiger-black-friday-november-2026-tommy-hilfiger';
+test('submit, reopen, attach the official flyer and compare immutable versions',async({page})=>{
+ await page.goto('/');
+ await page.getByLabel('品牌',{exact:true}).fill('Tommy Hilfiger');
+ await page.getByLabel('官方优惠链接').fill(official);
+ await page.getByLabel('核对日期').fill('2026-11-26');
+ await page.getByRole('button',{name:'核对并保存'}).click();
+ await expect(page).toHaveURL(/\/records\/[a-f0-9-]+/);
+ await expect(page.locator('.verdict')).toHaveText('适用');
+ await expect(page.locator('.citation a')).toHaveAttribute('href',official);
+ await page.reload();
+ await expect(page.locator('.citation')).toHaveCount(1);
+ await page.getByRole('button',{name:/选用：/}).click();
+ await page.getByRole('button',{name:'保存新的核对版本'}).click();
+ await expect(page.getByText('适用 → 适用')).toBeVisible();
+ await expect(page.locator('.citation')).toHaveCount(2);
+ await page.reload();
+ await expect(page.locator('.citation')).toHaveCount(2);
+ await page.getByLabel('历史版本').selectOption('0');
+ await expect(page.locator('.citation')).toHaveCount(1);
+});
+test('unmatched offer identifies missing evidence',async({page})=>{
+ await page.goto('/');
+ await page.getByLabel('品牌',{exact:true}).fill('Tommy Hilfiger');
+ await page.getByLabel('优惠文案').fill('只有红色外套减 88%');
+ await page.getByRole('button',{name:'核对并保存'}).click();
+ await expect(page.locator('.verdict')).toHaveText('证据不足');
+ await expect(page.getByText(/缺少与该品牌/)).toBeVisible();
+});

@@ -1,0 +1,206 @@
+[
+  {
+    "id": "R2",
+    "split": "real",
+    "brand": "Calvin Klein",
+    "offer": "50% off full price styles",
+    "day": "2026-11-26",
+    "event": "Black Friday / The Big Shopping Week",
+    "centre": "DFO Homebush",
+    "catalogue": [
+      {
+        "id": "h1",
+        "title": "The Big Shopping Week · 商场活动简介",
+        "type": "centre_event"
+      },
+      {
+        "id": "h2",
+        "title": "Calvin Klein · Black Friday",
+        "type": "homebush_offer"
+      }
+    ]
+  },
+  {
+    "id": "R3",
+    "split": "real",
+    "brand": "Tommy Hilfiger",
+    "offer": "50% off original prices storewide",
+    "day": "2026-11-26",
+    "event": "Black Friday / The Big Shopping Week",
+    "centre": "DFO Homebush",
+    "catalogue": [
+      {
+        "id": "h1",
+        "title": "The Big Shopping Week · 商场活动简介",
+        "type": "centre_event"
+      },
+      {
+        "id": "h3",
+        "title": "Tommy Hilfiger · Black Friday",
+        "type": "homebush_offer"
+      }
+    ]
+  },
+  {
+    "id": "R4",
+    "split": "real",
+    "brand": "Coach",
+    "offer": "Up To 50% Off Select Styles",
+    "day": "2026-11-26",
+    "event": "Black Friday / The Big Shopping Week",
+    "centre": "DFO Homebush",
+    "catalogue": [
+      {
+        "id": "h1",
+        "title": "The Big Shopping Week · 商场活动简介",
+        "type": "centre_event"
+      },
+      {
+        "id": "h4",
+        "title": "Coach · Up To 50% Off Select Styles",
+        "type": "homebush_offer"
+      }
+    ]
+  },
+  {
+    "id": "S1",
+    "split": "synthetic",
+    "brand": "示例品牌",
+    "offer": "Up to 50% off select styles",
+    "day": "2026-11-26",
+    "event": "Black Friday / The Big Shopping Week",
+    "centre": "DFO Homebush",
+    "catalogue": [
+      {
+        "id": "d1",
+        "title": "Black Friday 优惠公告",
+        "type": "brand_offer"
+      },
+      {
+        "id": "d2",
+        "title": "Homebush 品牌门店目录",
+        "type": "directory"
+      }
+    ]
+  },
+  {
+    "id": "S2",
+    "split": "synthetic",
+    "brand": "示例品牌",
+    "offer": "Up to 50% off select styles",
+    "day": "2026-11-26",
+    "event": "Black Friday / The Big Shopping Week",
+    "centre": "DFO Homebush",
+    "catalogue": [
+      {
+        "id": "d3",
+        "title": "Essendon Black Friday 门店优惠",
+        "type": "other_centre"
+      },
+      {
+        "id": "d11",
+        "title": "Black Friday 社交平台转述",
+        "type": "social"
+      }
+    ]
+  },
+  {
+    "id": "S3",
+    "split": "synthetic",
+    "brand": "示例品牌",
+    "offer": "Up to 50% off select styles",
+    "day": "2026-11-26",
+    "event": "Black Friday / The Big Shopping Week",
+    "centre": "DFO Homebush",
+    "catalogue": [
+      {
+        "id": "d4",
+        "title": "往期 Black Friday 条款",
+        "type": "brand_terms"
+      }
+    ]
+  },
+  {
+    "id": "S4",
+    "split": "synthetic",
+    "brand": "示例品牌",
+    "offer": "Up to 50% off select styles",
+    "day": "2026-11-26",
+    "event": "Black Friday / The Big Shopping Week",
+    "centre": "DFO Homebush",
+    "catalogue": [
+      {
+        "id": "d5",
+        "title": "Black Friday 参与门店与例外",
+        "type": "brand_terms"
+      },
+      {
+        "id": "d1",
+        "title": "Black Friday 优惠公告",
+        "type": "brand_offer"
+      },
+      {
+        "id": "d2",
+        "title": "Homebush 品牌门店目录",
+        "type": "directory"
+      },
+      {
+        "id": "d11",
+        "title": "Black Friday 社交平台转述",
+        "type": "social"
+      }
+    ]
+  },
+  {
+    "id": "S5",
+    "split": "synthetic",
+    "brand": "示例品牌",
+    "offer": "Up to 50% off select styles",
+    "day": "2026-11-26",
+    "event": "Black Friday / The Big Shopping Week",
+    "centre": "DFO Homebush",
+    "catalogue": [
+      {
+        "id": "d6",
+        "title": "Black Friday 门店例外条款",
+        "type": "brand_terms"
+      },
+      {
+        "id": "d2",
+        "title": "Homebush 品牌门店目录",
+        "type": "directory"
+      }
+    ]
+  },
+  {
+    "id": "S6",
+    "split": "synthetic",
+    "brand": "示例品牌",
+    "offer": "Up to 50% off select styles",
+    "day": "2026-11-26",
+    "event": "Black Friday / The Big Shopping Week",
+    "centre": "DFO Homebush",
+    "catalogue": [
+      {
+        "id": "d8",
+        "title": "Black Friday 兑换条款",
+        "type": "brand_terms"
+      },
+      {
+        "id": "d9",
+        "title": "Black Friday 付款条款",
+        "type": "brand_terms"
+      },
+      {
+        "id": "d10",
+        "title": "Black Friday 商品条款",
+        "type": "brand_terms"
+      },
+      {
+        "id": "d7",
+        "title": "Black Friday 参与门店名单",
+        "type": "brand_terms"
+      }
+    ]
+  }
+]

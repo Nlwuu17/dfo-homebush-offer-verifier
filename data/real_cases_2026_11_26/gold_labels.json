@@ -1,0 +1,31 @@
+[
+  {
+    "case_id": "BF26-01",
+    "label": "适用",
+    "reason": "Homebush 自己发布了同一优惠及有效期。品牌优惠页规定折扣基准和 Outlet 限制，商场活动传单补充会员条件。",
+    "supporting_evidence_ids": [
+      "E02",
+      "E07"
+    ]
+  },
+  {
+    "case_id": "BF26-02",
+    "label": "不适用",
+    "reason": "对应日期的品牌条款明确排除 Factory Outlets，品牌门店目录将同地址的 Homebush 门店列入 Outlet 类别。传单上指定款减 50% 是当地另一条优惠。",
+    "supporting_evidence_ids": [
+      "E03",
+      "E04",
+      "E07"
+    ]
+  },
+  {
+    "case_id": "BF26-03",
+    "label": "证据不足",
+    "reason": "品牌确认优惠已开始，仅称参加活动的门店适用。目录确认 Homebush 分店存在；本店同期传单写的是最高减 70%。现有资料未将该店纳入或排除在指定的 30% 优惠之外。",
+    "supporting_evidence_ids": [
+      "E05",
+      "E06",
+      "E07"
+    ]
+  }
+]

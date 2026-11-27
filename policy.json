@@ -1,0 +1,6 @@
+{
+  "budget": 3,
+  "fixed_order": ["homebush_offer", "brand_terms", "brand_offer", "centre_event", "directory", "other_centre", "social"],
+  "tie_break": "catalogue order",
+  "stop": ["uncontested inclusion or exclusion", "catalogue exhausted", "budget exhausted"]
+}

@@ -1,0 +1,42 @@
+name: Homebush verification
+on: pull_request
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    env:
+      DATABASE_URL: postgresql://dfo:test@127.0.0.1:5432/dfo
+    services:
+      postgres:
+        image: postgres:16
+        env:
+          POSTGRES_DB: dfo
+          POSTGRES_USER: dfo
+          POSTGRES_PASSWORD: test
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd pg_isready --health-interval 3s --health-timeout 3s --health-retries 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "22"
+      - run: pip install -r v03/requirements.txt
+      - run: |
+          sha256sum -c data/real_cases_2026_11_26/SHA256SUMS
+          python -m unittest discover -s tests -v
+          python bf26.py eval --out "$RUNNER_TEMP/bf26"
+          diff -ru results/bf26 "$RUNNER_TEMP/bf26"
+      - run: docker compose config --quiet
+      - working-directory: web
+        run: |
+          npm install --no-audit --no-fund
+          npm run build
+          npx playwright install --with-deps chromium
+          npm run test:browser

@@ -1,0 +1,13 @@
+{
+  "key":"tommy-bf-2026","brand":"Tommy Hilfiger",
+  "aliases":["全店按原价减 50%","Black Friday 全店按原价减 50%","50% off original prices storewide"],
+  "sources":[{
+    "id":"TH-BF","title":"Tommy Hilfiger | Black Friday - DFO Homebush",
+    "url":"https://www.homebush.dfo.com.au/offers/tommy-hilfiger-black-friday-november-2026-tommy-hilfiger",
+    "checked_date":"2026-11-26","locator":"Offer 日期栏、正文第一段、Terms and Conditions",
+    "terms":"全店按原价减 50%，详情见店内条款。",
+    "quote":"50% off original prices storewide at Tommy Hilfiger",
+    "scope":"homebush_included","scope_text":"DFO Homebush 商场为本店发布的具体优惠。",
+    "start":"2026-11-18","end":"2026-12-01"
+  }]
+}

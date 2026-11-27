@@ -1,0 +1,165 @@
+[
+  {
+    "case_id": "NC01",
+    "label": "证据不足",
+    "reason": "N01 的活动列表仅列 Rag & Bone 全店再减 20%，且摘要明确指出没有独立的 25% 条目。按内容一致性及 BF26-03 先例，另一折扣无法证实用户所述优惠。",
+    "supporting_evidence_ids": [
+      "N01"
+    ]
+  },
+  {
+    "case_id": "NC02",
+    "label": "适用",
+    "reason": "按本店范围与内容一致性步骤，N03 为本店发布 11 月 25–30 日全店再减 20% 的优惠，标题写明「再减」，正文明列特价品和 rb MIRAMAR 系列。",
+    "supporting_evidence_ids": [
+      "N03"
+    ]
+  },
+  {
+    "case_id": "NC03",
+    "label": "不适用",
+    "reason": "按 A，N04 明定本店 App 会员的买一送一仅在 11 月 27 日举行，核对日 11 月 26 日尚未开始。",
+    "supporting_evidence_ids": [
+      "N04"
+    ]
+  },
+  {
+    "case_id": "NC04",
+    "label": "适用",
+    "reason": "按 D，N02 第 2 页列出本店 11 月 20–30 日任选三杯大杯果茶或奶茶共 $20，核对日在档期内。",
+    "supporting_evidence_ids": [
+      "N02"
+    ]
+  },
+  {
+    "case_id": "NC05",
+    "label": "适用",
+    "reason": "N05 是商场为本店发布的优惠页，N02 第 1 页是本店传单（D）。同一全店买一送一在 N05 标为 11 月 26–29 日，在 N02 标为 11 月 13–30 日。档期不同，但核对日 11 月 26 日落在两者之内，按 F 只记录档期差异，不构成冲突；内容与描述一致。",
+    "supporting_evidence_ids": [
+      "N05",
+      "N02"
+    ]
+  },
+  {
+    "case_id": "NC06",
+    "label": "适用",
+    "reason": "N05 是商场为本店发布的优惠页，N02 第 1 页是本店传单（D）。精选身体护理每件 $12 在两份资料中的价格一致，有效期分别为 11 月 26–29 日和 11 月 13–30 日。核对日 11 月 26 日落在两者之内，按 F 只记录档期差异，不构成冲突。",
+    "supporting_evidence_ids": [
+      "N05",
+      "N02"
+    ]
+  },
+  {
+    "case_id": "NC07",
+    "label": "适用",
+    "reason": "按本店范围与内容一致性步骤，N06 明列本店 11 月 26–30 日全部首饰额外减 10%；$3,000 以下的限制写在另一项最高减 50% 的优惠上。",
+    "supporting_evidence_ids": [
+      "N06"
+    ]
+  },
+  {
+    "case_id": "NC08",
+    "label": "证据不足",
+    "reason": "按 B，N06 将最高减 50% 限于 $3,000 以下的首饰；N02 第 2 页只写「最高 50%」，没有明确取消金额门槛，无法支持「不限金额」。",
+    "supporting_evidence_ids": [
+      "N06",
+      "N02"
+    ]
+  },
+  {
+    "case_id": "NC09",
+    "label": "适用",
+    "reason": "按本店范围与内容一致性步骤，N07 明列本店 11 月 25–30 日指定款最高减 50%，范围和最高折扣均吻合。",
+    "supporting_evidence_ids": [
+      "N07"
+    ]
+  },
+  {
+    "case_id": "NC10",
+    "label": "证据不足",
+    "reason": "按 B，N07 的「指定款最高 50%」同时限制商品范围及折扣幅度，无法支持全店商品一律减 50%。",
+    "supporting_evidence_ids": [
+      "N07"
+    ]
+  },
+  {
+    "case_id": "NC11",
+    "label": "适用",
+    "reason": "按 D，N02 第 1 页明确列出本店 11 月 23 日至 12 月 6 日全店减 30%，包括特价品。",
+    "supporting_evidence_ids": [
+      "N02"
+    ]
+  },
+  {
+    "case_id": "NC12",
+    "label": "适用",
+    "reason": "按 C，N09 是商场为本店发布的优惠页，足以确认本店参与 Outlet 限定活动；11 月 23–30 日全部款式按原吊牌价最高减 70%，与描述一致。",
+    "supporting_evidence_ids": [
+      "N09"
+    ]
+  },
+  {
+    "case_id": "NC13",
+    "label": "适用",
+    "reason": "按 C，N10 是商场为本店发布的活动页，确认本店参与；11 月 24–30 日店内大杯芒果红茶 $6，加料另计。",
+    "supporting_evidence_ids": [
+      "N10"
+    ]
+  },
+  {
+    "case_id": "NC14",
+    "label": "不适用",
+    "reason": "按 A，N02 第 2 页的全店减 30%（饮品和 crema gelata 除外）从 11 月 27 日起，11 月 26 日尚未开始。",
+    "supporting_evidence_ids": [
+      "N02"
+    ]
+  },
+  {
+    "case_id": "NC15",
+    "label": "不适用",
+    "reason": "按 A，N02 第 1 页明确列出全店减 25% 已于 11 月 24 日结束；核对日是 11 月 26 日。",
+    "supporting_evidence_ids": [
+      "N02"
+    ]
+  },
+  {
+    "case_id": "NC16",
+    "label": "不适用",
+    "reason": "按 A，N02 第 1 页列出的全店减 60% 从 11 月 27 日起，晚于核对日。",
+    "supporting_evidence_ids": [
+      "N02"
+    ]
+  },
+  {
+    "case_id": "NC17",
+    "label": "证据不足",
+    "reason": "按 E，N02 第 1 页列出全店最高减 70%，但该品牌条目未印有效期，无法确认 11 月 26 日可用。",
+    "supporting_evidence_ids": [
+      "N02"
+    ]
+  },
+  {
+    "case_id": "NC18",
+    "label": "证据不足",
+    "reason": "按 E，N02 第 1 页将指定款最高减 50% 的档期印为 11/16–10/27，结束日早于开始日，无法确定有效期。",
+    "supporting_evidence_ids": [
+      "N02"
+    ]
+  },
+  {
+    "case_id": "NC19",
+    "label": "适用",
+    "reason": "按 D，N02 第 2 页明确列出 11 月 20–30 日装备减 30%；鞋履和服装另列为最高减 50%。",
+    "supporting_evidence_ids": [
+      "N02"
+    ]
+  },
+  {
+    "case_id": "NC20",
+    "label": "适用",
+    "reason": "按 D，N02 第 3 页列出买两件 Outlet 商品额外减 20%，原印日期「5/11 – 1/12」按澳洲日/月格式为 11 月 5 日至 12 月 1 日，涵盖核对日。",
+    "supporting_evidence_ids": [
+      "N02"
+    ]
+  }
+]

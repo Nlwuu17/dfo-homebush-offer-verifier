@@ -1,0 +1,80 @@
+{
+  "R2": {
+    "label": "已确认适用",
+    "evidence": [
+      "h2#优惠标题 / 品牌",
+      "h2#Offer / 标题下日期",
+      "h2#正文第1段"
+    ],
+    "reason": "Homebush 商场在对应日期直接发布 Calvin Klein 的 50% off full price styles。"
+  },
+  "R3": {
+    "label": "已确认适用",
+    "evidence": [
+      "h3#优惠标题 / 品牌",
+      "h3#Offer / 标题下日期",
+      "h3#正文第1段"
+    ],
+    "reason": "Homebush 商场在对应日期直接发布 Tommy Hilfiger 的 50% off original prices storewide。"
+  },
+  "R4": {
+    "label": "已确认适用",
+    "evidence": [
+      "h4#优惠标题 / 品牌",
+      "h4#Offer / 标题下日期",
+      "h4#优惠标题"
+    ],
+    "reason": "Homebush 商场在对应日期直接发布 Coach 的 Up To 50% Off Select Styles。"
+  },
+  "S1": {
+    "label": "待门店确认",
+    "evidence": [
+      "d1#范围",
+      "d2#目录"
+    ],
+    "reason": "Outlet Stores Only 未列出参加活动的分店。目录仅证明门店存在。"
+  },
+  "S2": {
+    "label": "未经证实",
+    "evidence": [
+      "d3#范围",
+      "d11#帖子"
+    ],
+    "reason": "其他商场与社媒均无权确认本店活动。"
+  },
+  "S3": {
+    "label": "未经证实",
+    "evidence": [
+      "d4#日期"
+    ],
+    "reason": "同品牌同折扣的 2025 年名单无法证明本次优惠。"
+  },
+  "S4": {
+    "label": "待门店确认",
+    "evidence": [
+      "d5#范围",
+      "d5#例外"
+    ],
+    "reason": "同一档期的官方参与名单与例外条款矛盾，其他材料无法消解。"
+  },
+  "S5": {
+    "label": "已确认不适用",
+    "evidence": [
+      "d6#日期",
+      "d6#范围",
+      "d6#优惠",
+      "d6#标题"
+    ],
+    "reason": "品牌条款明确排除目标门店。"
+  },
+  "S6": {
+    "label": "已确认适用",
+    "evidence": [
+      "d7#范围",
+      "d7#日期",
+      "d7#优惠",
+      "d7#标题"
+    ],
+    "reason": "第四份条款列出了目标门店。"
+  }
+}
