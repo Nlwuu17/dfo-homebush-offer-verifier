@@ -24,6 +24,22 @@ It is also a small, controlled testbed for **evidence-gathering agents**. Three 
 - **Reproducible evaluation**: frozen inputs are SHA-256 checksummed, gold labels are opened only at scoring time, and per-step traces are saved as JSONL. Rerunning the offline evaluation reproduces the outputs byte for byte.
 - **Full stack**: Next.js UI, FastAPI, PostgreSQL with versioned re-checks (each re-check carries the expected version; stale writes get HTTP 409), Docker Compose, Playwright end-to-end tests and GitHub Actions.
 
+## Screenshots
+
+**ASICS · BF26-02.** Both offline strategies conclude that the offer excludes the Homebush outlet. Each reads three documents and cites E03 and E04. The expanded steps show the official terms. Arm C was unavailable for this run.
+
+![ASICS comparison with the first evidence step expanded in both offline strategies](docs/screenshots/compare-bf26-02.png)
+
+**Tommy Hilfiger · version 1.** For 26 November 2026, the first saved check cites the Homebush offer page (TH-BF) and concludes that the offer applies.
+
+![First saved Tommy Hilfiger check with one cited offer page](docs/screenshots/record-tommy-v1.png)
+
+**Tommy Hilfiger · version 2.** After adding the centre flyer (TH-FLYER), the verdict still reads “适用 → 适用”. The history view distinguishes the cited offer page from the additional flyer read during the check.
+
+![Second saved check showing the verdict comparison and both evidence documents](docs/screenshots/record-tommy-v2.png)
+
+To reproduce the screenshots, start the offline app with Docker Compose. With the web Playwright dependencies and Chromium installed, run `node web/scripts/screenshots.mjs` from the repository root. This creates one Tommy Hilfiger record with two versions.
+
 ## Architecture
 
 ```mermaid
